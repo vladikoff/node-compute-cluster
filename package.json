@@ -11,10 +11,10 @@
   "engines": {
     "node": ">= 0.6.2"
   },
-  "dependencies": {
-    "vows": "0.6.0"
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "~0.6.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "vows"
   }
